@@ -1,0 +1,69 @@
+
+  h1 {
+    color: black;
+    text-align: center;
+    font-family: times;
+    font-size: 200%;
+  }
+  h2 {
+      color:black;
+      font-size: 150%;
+      text-align: left;
+
+  }
+
+  .red {
+      color: red;
+      font-size: 100%;
+  }
+
+  .blue {
+    color: blue;
+    font-size: 100%;
+}
+
+  .green {
+    color: green;
+    font-size: 100%;
+    }
+
+.big {
+    font-size: 150%;
+}
+
+.small {
+    font-size:60% ;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.diff {
+    font-family: Lucida Sans;
+}
+
+.multi {
+    font-size: 200%;
+    font-weight: bold;
+    font-family: Veranda;
+    color: orange;
+}
+
+.styledFont {
+    color: green
+}
+
+#styledImage {
+    border-width: 20px;
+    border-color: orange;
+    border-style: solid;
+    border-radius: 0%;
+    background-color: lightblue;
+
+}
+

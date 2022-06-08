@@ -1,0 +1,61 @@
+
+  h1 {
+    color: black;
+    text-align: center;
+    font-family: times;
+    font-size: 300%;
+  }
+  h2 {
+      color:black;
+      font-size: 150%;
+      text-align: left;
+
+  }
+
+.big {
+    font-size: 150%;
+}
+
+.small {
+    font-size:60% ;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.diff {
+    font-family: Lucida Sans;
+}
+
+.multi {
+    font-size: 200%;
+    font-weight: bold;
+    font-family: Veranda;
+    color: orange;
+}
+
+.styledFont {
+    color: green
+}
+
+
+body {
+    background-color: burlywood
+}
+
+
+#styledImage {
+    border-width: 20px;
+    border-color: rgb(85, 0, 18);
+    border-style: solid;
+    border-radius: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
